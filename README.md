@@ -7,7 +7,7 @@ code for using EJBs and the latest components of the Java EE platform.
 
 It's last implementation, version PetStore1.3.2, was for the Java EE 1.3 platform.  
 It used the [EJB 2.0](http://en.wikipedia.org/wiki/Enterprise_JavaBeans) 
-programming model which is no longer supported by current Java EE platforms.  It was replaced by EJB 3.0 in the Java EE 1.4 platform.
+programming model which is no longer supported by current Java EE implementations.  It was replaced by EJB 3.0 in the Java EE 1.4 platform.
 This is a pre MAVEN project.  The project uses ANT to build.
   
 Sun stopped maintaining this project in 2007.
